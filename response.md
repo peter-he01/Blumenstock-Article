@@ -17,5 +17,6 @@ The age of big data has transformed the approach to many issues around the globe
 The cumulating of big data are used tot develop many algorithms that control many hidden aspects of daily life. However, just like the checks and balances of the government systems, who checks these auto generated number of data that could potentrailly decide the fate of one's life. 
 
 Here are three approaches
-1. enforce the rule that any data used are solely for the benefit of improving individual lives and the welfare of society. 
-2. 
+1. Enforce the rule that any data used are solely for the benefit of improving individual lives and the welfare of society. 
+2. Individual promission with the access of any sensitive information 
+3. Inform more regarding what data are extracted, more education on what does it mean to share your location, access to photos from apps... 
