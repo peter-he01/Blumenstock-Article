@@ -1,4 +1,4 @@
-# Short responses
+# Short Responses
 
 ### Sources 
 
