@@ -23,3 +23,5 @@ Like I stated in question 4, economic freedom could be closely related economic 
 The story of Kader Mia was a tragic one. Because of the conflicts between religions in the area, mobs of people have been on the streets and fights broke out on a daily basis. Kader was unemployed with no savings left to support his family, and they were on the verge of starvation. Which forced Kader to wal out of his house to a dangous part of town in search of work. Unfortunately, the economic unfreedom led him to his end.
 
 ### Question #7.  Who were Condorcet and Malthus? What were their primary arguments regarding development and fertility?
+
+Condorcet was a French rationalist that argued with the increase in freedom, education, and security of the people, fertility rate would decrease naturally. However, Malthus aruged other wise. He believed that freedom would bring about more people into the population and there would be no difference. These two beliefs where one advocate for freedom, where the other is againist freedom in the context of development had been debated for centuries. 
