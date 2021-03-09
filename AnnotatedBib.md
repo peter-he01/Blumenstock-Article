@@ -4,23 +4,7 @@ Word Count: 1654
 
 ### What is food security?
 
-- “ Availability at all times of adequate world food supplies of basic foodstuffs to sustain a
-steady expansion of food consumption and to offset fluctuations in production and
-prices” The World Economic Summit (1974)
-
-- Food and Agricultural Organization (FAO, 1984), defined food security as all individuals
-having access to sufficient and nutritious food to meet their needs and preferences for
-an active and healthy life.
-
-### Four dimensions of food security (FAO, 2018)
-
-● Food availability
-
-● Food access
-
-● Food utilization
-
-● Food stability
+There are multiple definitions to what food security is in the modern world. Currently, the world food production could sustain every individual on earth. However, the accessbility are still greatly limited in many countries of the world. Generally food security can be defined as “ Availability at all times of adequate world food supplies of basic foodstuffs to sustain a steady expansion of food consumption and to offset fluctuations in production and prices” The World Economic Summit (1974) or from the Food and Agricultural Organization (FAO, 1984) defined food security as all individuals having access to sufficient and nutritious food to meet their needs and preferences for an active and healthy life. There are also four dimensions of food security that a country has to consider they are food availability, food access, food utilization, and food stability. 
 
 ### Article 1
 
