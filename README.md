@@ -8,6 +8,8 @@
 
 3. [Kitchin and Anderson](https://peter-he01.github.io/DATA-150-Spring-2021/Kitchin.html)
 
+4. [Development and Complexity--Barder](https://peter-he01.github.io/DATA-150-Spring-2021/Barder.html)
+
 # Formal Assignment
 
 1. [Annotated Bibliography](https://peter-he01.github.io/DATA-150-Spring-2021/AnnotatedBib.html)
