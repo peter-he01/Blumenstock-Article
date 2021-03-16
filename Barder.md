@@ -1,6 +1,10 @@
 #### Question 1.  How does Owen Barder define development? How does he extend Amartya Sen's definition to include the idea of complexity?
 
+Sen's defifnition highlights the idea that development should be judged not only on the basis of increases in average incomes but on whether it creates the circumstances for people to make choices (i.e becoming a doctor) and freedoms. However, Barder argues that development should not be measured by its effect on the people, but rather a proptery of the economic and social system. 
+
 #### Question 2.  Barder compared the economic growth of South Korea and Ghana between 1960 and 2010.  Why did he make this comparison?  What did this comparison demonstrate when used as the basis to validate economic models?
+
+This comparsion highlights the average income of people in these two countries where Korea had a durastic increase in income overtime, while Ghana stayed relatively the same. The comparsion emphazies that althoguh we argue that average income is not a complete measure of well-being, the reality is that this econmic growth has completely changes the lives of South Koreans. The common consensus is that development is a gradual process following more productivity, but the Ghana example proves otherwise. This ilistrates there're border factors in play than viewing development from an individual prospective. 
 
 #### Question 3.  What was the toaster project? What did Thomas Thwaites attempt to do? Was he successful? What is the significance of this example in the context of complexity?
 
