@@ -4,16 +4,16 @@ could Improve Spatial Clusters of Food Insecurity in Nigeria
 Peter He
 Word count: 2040 
 
-Food Security in the world
+### Food Security in the world
 
 In the modern world, food security/hunger is one of the top sustainable development goals identified by the UN. Elimination of hunger is a top priority because it enables many other aspects of social, economical freedoms for the individual. Currently, world food production levels could sustain every individual on earth. However, hunger persists because accessibility is still greatly limited in many countries of the world. The reasons for lack of food access are always a combination of multiple factors ranging from poor policies, large wealth gaps to lack of education, and it is never only caused by a low agricultural output within the country. 
 Generally, food security can be defined as “ Availability at all times of adequate world food supplies of basic foodstuffs to sustain a steady expansion of food consumption and to offset fluctuations in production and prices” The World Economic Summit (1974) or from the Food and Agricultural Organization (FAO, 1984) defined food security as “all individuals having access to sufficient and nutritious food to meet their needs and preferences for an active and healthy life.” There are also four dimensions of food security that a country has to consider : food availability, food access, food utilization, and food stability.
 
-Sen’s view on Food Security
+### Sen’s view on Food Security
 
 Sen’s definition of development highlights the idea that development should be judged not only based on the increase in average incomes but on whether it creates the circumstances for people to make choices and freedoms. Food security is fundamental for human survival, and a nutritious diet increases the well-being and functionality of individuals. However, poverty remains one of the main factors to world hunger, and there are also multiple dimensions in the operation of a country that challenges the escape from a poverty trap. Economically, if food production and import lag behind the food demand, then there would be an upward trending in food prices, which could further decrease a poorer family’s wealth and deepen the root of poverty. Socially, conventions and norms are ever-changing based on the theory of coevolution, and the government needs to adopt, regulate, and reallocate resources between communities, families, and individuals of need especially between genders. 
 
-Food Security in Nigeria
+### Food Security in Nigeria
 
 In an FAO conference, Sen addressed that Africa did not have a steady increase in food availability per capita compared to Asia. In 2011, only a 4 percent increase was observed compared to the average of years 2004-2006. Furthermore, the per capita was 2 percent lower in 2010. This has led to Nigeria as the focus country as a relevant reference point in explaining and investigating the reason for food insecurity. Nigeria is ranked 100 out of 113 on the global food security index, which is one of the lowest followed only by other African countries, and the latest Cadre Harmonisé analysis indicated that a stunning 2.6 million people still face severe food insecurity. As the case for most issues, there are multiple dimensions of why Nigeria remains one of the most food-insecure countries in the world. 
 
@@ -23,11 +23,11 @@ From an economical perspective, food insecurity in Nigeria seems to stem from th
 
 From the perspective of Kapuscinski’s book The Emperor, it could also be considered that the Nigerian state is actually extracting wealth from the population and ignoring current issues of food insecurity among other issues. Although Nigeria is a democracy with a multi-party system, the administration has turned to repression in the face of civil unrest, the Boko Haram insurgency, and the swelling of extreme poverty. Therefore, it could be said that it is sliding towards authoritarianism. However, It is interesting when viewing food insecurity issues in Nigeria from the perspective of Sen. Democratic governments are much less likely to fall victim to hunger/famine. Therefore, what could be inferred is that only a fair democratic system without corruption has the potential of exerting protective power.
 
-Complex adaptive systems of food security in Nigeria
+### Complex adaptive systems of food security in Nigeria
 	
 When taking into account the inability of the government, lack of funding towards the important sectors such as agriculture, civil unrest, and environmental degradation. The basic living conditions of the people are in great shambles. All these factors negatively interact with one another, which creates a negative complex adaptive system or a negative feedback loop that drives current issues of poverty, food insecurity, terrorism into greater disparity. Because the legitimacy of the government is weakened, the communication with citizens and the application of policies are stalled. Civil unrest and Terrorism have made communities hazardous to live in leading to a lack of national confidence. The one-dimensional economic market makes it difficult for citizens to find jobs. The lack of basic infrastructure has led to poor health care, education, and high child mortality rates. Conclusively, all these issues led to a majority of the population being malnourished, unemployed, uneducated, and questioning their national identity. Based on this societal outlook, it is comprehensible why food is missing from more than 26 million people in the country. 
 
-Data Science Methods 
+### Data Science Methods 
 	
 International organizations have longed for the opportunity to provide aid to Nigeria in an attempt to remedy these crises. However, the right methods and locations of aid support are blurry and often difficult to identify. Focusing on Food security, data science methods have been developed to identify food insecurity clusters and create models to identify and suggest actions that could potentially improve the number of malnutrition individuals. The dimension of human development will focus on the direct enhancement of human abilities, specifical improvement to the standards of living and consequently leading to a long and healthy life. People of Nigeria face many challenges that hinder healthy living. This is detrimental because if the basic need for living and survival were limited, then development is restricted as well. As stated by Sen “The world has unprecedented opulence and yet denies freedoms to vast numbers of people.”
 	
@@ -39,25 +39,24 @@ With the identification of clusters of food insecurity, new models could be used
 
 Using Solow’s growth model, improvement to food security is classified as observing growth in food production. This deters from the classical view that an improvement in food security of a house-hold is due to the accumulation of savings. However, in a normal Solow’s growth model, complex, adaptive factors were not considered. To combat this limitation, equitable growth and wellbeing such as savings, social protection, and technological change were also factored into the model to give greater validity to the result. ADL was used as a multi-econometric method taking into account technological changes based on Solow's growth model. The researchers examined the effect of trade liberalization on food security issues. The common belief is that open trades are overall beneficial for all systems. However, what they found is that in the case of Nigeria it is the exact opposite. The model suggested that trade liberalization should be articulated, but the focus should be placed on the regulation of food prices, local food production, and limits on the import of food.
 
-Greater Complexity and Difficulty of Prediction 
+### Greater Complexity and Difficulty of Prediction 
 	
 By the identification of geographical clusters of food insecurity, it will be easier to locate the areas of need and allocate aids. The sub-sector models that the ADL and Solow’s growth model was based on could provide long-term developmental goals for the country. Following existing growth models, an increase of 5-10 percent of the national income five or ten percent of the national income then it would trigger a “virtuous circle” that pushes the country into self-sustainable growth. However, economic models do not explain or predict the growth of countries very well, because there are always more contributing factors in play that lead to the rapid economic growth of a country. In the case of Nigeria, Many uncontrollable aspects of society will constantly challenge the existing predictions and models. In order for food insecurity to be fully eliminated, there would need to be an instantaneous change to poor governmental policies, increase in societal security, great capital input into the agricultural sector, and eradication of terrorism, which are not likely to happen in a short period of time. Furthermore, it takes experimentation and gradual improvement to the current and future systems to perfect a country to be stable and self-sustainable to a level that eliminates hunger. Uncontrollable factors and the unknown interaction of a complex adaptive system is the precise reason the SDGs proposed by the UN are aimed at the year 2030. 
 
-Reflection 
+### Reflection 
 
 My work so far has aimed to understand the current and past situation of how Nigeria came to be in the position that is in. The great number of unfreedoms limits the individual to create circumstances for themselves to be successful in society. The two data science methods I focused on identified the weak and vulnerable location in Nigeria for food security. However, it is lacking clear scientific evidence of how different adaptive factors directly contributed to the issue of food security and subsequently poverty. There are also factors such as tribalism that are not explored. Future research should be focused on how firms and institutions adopt this system, and how governmental policy implementations are affecting the current food security crisis and consider isomorphic mimicry implications of them. On the other hand, more research should be conducted on the full understanding of how geographical clusters and other data science methods are developed and articulated in the context of Nigeria. 
 
 
+### Citations 
 
-Citations 
 Apampa, Olatunji. “Food Security and the Climate Crisis: A Data-driven Analysis of the Nigerian Situation From 2011 to 2020.” ResearchGate, Feb. 2021, 10.13140/RG.2.2.28147.04640
 
 Burke, Marshall, and David B. Lobell. “Satellite-Based Assessment of Yield Variation and Its Determinants in Smallholder African Systems.” PNAS, National Academy of Sciences, 28 Feb. 2017, www.pnas.org/content/114/9/2189.full. 
 
 Cho, J., Kim, T., & Shin, Y. (2015, June 09). Quantile cointegration in the AUTOREGRESSIVE distributed-lag modeling framework. Retrieved March 17, 2021, from https://www.sciencedirect.com/science/article/abs/pii/S0304407615001645
 
-Global Food Security Index (GFSI). (n.d.). Retrieved March 18, 2021, from https://foodsecurityindex.eiu.com/Index
-Hunger about more than food production, FAO CONFERENCE HEARS. (n.d.). Retrieved March 22, 2021, from http://www.fao.org/news/story/en/item/178014/icode/
+Global Food Security Index (GFSI). (n.d.). Retrieved March 18, 2021, from https://foodsecurityindex.eiu.com/Index Hunger about more than food production, FAO CONFERENCE HEARS. (n.d.). Retrieved March 22, 2021, from http://www.fao.org/news/story/en/item/178014/icode/
 
 Nigeria. (n.d.). Retrieved March 18, 2021, from http://www.fao.org/emergencies/countries/detail/en/c/213439#:~:text=Alarming%20food%20insecurity%20situation%20in,000%20people%20from%20June%202019.
 
