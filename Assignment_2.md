@@ -2,6 +2,8 @@
 
 [Lit Review](https://peter-he01.github.io/DATA-150-Spring-2021/Assignment_full.html) 
 
+[Lit Review Revised](https://peter-he01.github.io/DATA-150-Spring-2021/Assignment2_revised.html) 
+
 ### Draft title
 
 How Technology and Investment in Agriculture could Improve Spatial Clusters of Food Insecurity in nigeria
