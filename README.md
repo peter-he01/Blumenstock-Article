@@ -10,6 +10,8 @@
 
 4. [Development and Complexity--Barder](https://peter-he01.github.io/DATA-150-Spring-2021/Barder.html)
 
+5. [Assignment 3 intro draft](https://peter-he01.github.io/DATA-150-Spring-2021/intro3.html)
+
 # Formal Assignment
 
 1. [Annotated Bibliography](https://peter-he01.github.io/DATA-150-Spring-2021/AnnotatedBib.html)
