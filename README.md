@@ -17,3 +17,5 @@
 1. [Annotated Bibliography](https://peter-he01.github.io/DATA-150-Spring-2021/AnnotatedBib.html)
 
 2. [Literature Review](https://peter-he01.github.io/DATA-150-Spring-2021/Assignment_2.html)
+
+3. [Research proposal](https://peter-he01.github.io/DATA-150-Spring-2021/proposal.html)
